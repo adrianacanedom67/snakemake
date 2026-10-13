@@ -1,0 +1,2 @@
+# snakemake
+For snakemake course
